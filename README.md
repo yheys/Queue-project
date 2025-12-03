@@ -1,4 +1,4 @@
-Usign the queue data stracture to enqueue,dequeue, peek and display the data.
+Usign the queue data stracture in python to enqueue,dequeue, peek and display the data.
 
 It is deiffernet from the stake b\c in the queue  we the  first in first out methods.
 
